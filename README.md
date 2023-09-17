@@ -1,4 +1,16 @@
 # Hello, world i'm Ilia
 Привет мир, меня зовут Илья. Я начинающий iOS разработчик.
-[](https://developer.apple.com/news/images/og/ios-17-og-twitter.jpg)
+![Логотип iOS](https://developer.apple.com/news/images/og/ios-17-og-twitter.jpg)
 Swift - не первый мой язык, еще в институте я писал на Perl и Python.
+На данный момент я закончил курсы **IOS-разработка для начинающих** и продолжил обучения на курсе **iOS-разработчик с нуля**.
+**iOS-разработчик с нуля** более глубокий курс включающий  **SwiftUI** и другие продвинутые темы.
+![Логотип SwiftUI](https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png)
+## Мой путь в iOS разработке
+
+```mermaid
+graph LR
+A(Начало) -- 30 ноября 2022 --> B(Старт IOS-разработка для начинающих)
+B -- 3 июля 2023 --> C(Конец обучения)
+B -- 19 июня 2023 --> D(Старт iOS-разработчик с нуля)
+D -- ? --> E(Конец обучения)
+```
